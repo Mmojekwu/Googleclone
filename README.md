@@ -1,5 +1,6 @@
 # [Google](https://googleclonex.herokuapp.com/)
-I implemented google using their api, the link to my implementation can be found at  https://googleclonex.herokuapp.com/
+I implemented google using their api, the link to my implementation can be found at  https://googleclonex.herokuapp.com/ 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
 ## Development server
